@@ -1,3 +1,3 @@
 # Home Page
 
-![Guam Beaches](beach.jpeg "Life on Guam")
+![Guam Beaches](beach2.jpeg "Life on Guam")
