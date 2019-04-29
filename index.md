@@ -1,8 +1,9 @@
 # Home Page
 
-## Avengers Endgame
+## Avengers Endgame - Review
 
 ![Endgame](avengersendgame.jpg "Avengers Endgame")
 
 #### The long anticipated sequel to Marvel's Infinity War was the final big team up for the end of Phase 4 MCU. It's debut took place friday April 26, and I got the chance of watching it in theater the Sunday after. 
 
+[bio.md](https://github.com/aduenas5/aduenas5.github.io/blob/master/bio.md)
